@@ -1,2 +1,2 @@
-# TheCHEINSTTROARLY
-Full Project
+# The CHEINSTTROARLY
+The Full Project
