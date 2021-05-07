@@ -11,4 +11,6 @@ The Full Book ---
 - [JonnyGamer](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=wl5j-1kwk_7c&channel=Published)
 
 ### Games
+- [It's Here](https://c.gethopscotch.com/p/zi4k2lqt6) by -1
+- [It's Here: The Game](https://c.gethopscotch.com/p/zikpn5f84) by JonnyGamer
 - [AntiLone](https://c.gethopscotch.com/p/11mnh5o5z0) by SarcasticTvHead
