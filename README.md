@@ -18,7 +18,10 @@ The Full Book ---
 - [It's Here: The Game](https://c.gethopscotch.com/p/zikpn5f84) by JonnyGamer
 - [AntiLone](https://c.gethopscotch.com/p/11mnh5o5z0) by SarcasticTvHead
 - [Pro Camping Tips](https://c.gethopscotch.com/p/10brqq43li) by Save The Jeffery Fishes
-= [-1](https://c.gethopscotch.com/p/102mc2c4fn) by Creations of a Noob
+- [-1](https://c.gethopscotch.com/p/102mc2c4fn) by Creations of a Noob
+- [Guide UwU through Space](https://c.gethopscotch.com/p/ztno5gxjk) by Save The Jeffery Fishes
+- [Cool Loading Screen!](https://c.gethopscotch.com/p/zt7idqfsb) by Save The Jeffery Fishes
+- [Quick -1 PLatformer](https://c.gethopscotch.com/p/zt7anowzj) by Save The Jeffery Fishes
 
 
 ---
