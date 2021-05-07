@@ -10,8 +10,12 @@ The Full Book ---
 - [Jeffery The Legend](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5nq7mp-1kwo_7k&channel=Published)
 - [JonnyGamer](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=wl5j-1kwk_7c&channel=Published)
 - [Super Mario Mini Games](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=4scg3o-1kwl_7l&channel=Published)
+
 - [Creations of a Noob](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=v3ad-1kwk_7c&channel=Published)
 - [MagmaPOP](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=curfb-1kwl_75&channel=Published)
+- [Jeffery Jr.](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5zk12q-1kww_77&channel=Published)
+- [jeff3321](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=52jq75-1kwm_7b&channel=Published)
+- [jeff master 96](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5cwok1-1kwn_7d&channel=Published)
 
 ### Games
 - [It's Here](https://c.gethopscotch.com/p/zi4k2lqt6) by -1
@@ -39,3 +43,5 @@ The Full Book ---
 [Last project...](https://c.gethopscotch.com/p/y0ggh3drq) by MagmaPOP
 
 [Someone remixed by song for MagmaPOP?](https://c.gethopscotch.com/p/xmpn4mn8d)
+
+[Super Mario bros 1-1](https://c.gethopscotch.com/p/zb48tb8zl) by jeff master 96
