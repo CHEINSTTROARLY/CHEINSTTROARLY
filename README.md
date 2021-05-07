@@ -45,5 +45,13 @@ The Full Book ---
 
 [Someone remixed by song for MagmaPOP?](https://c.gethopscotch.com/p/xmpn4mn8d)
 
-[Super Mario bros 1-1](https://c.gethopscotch.com/p/zb48tb8zl) by jeff master 96  
-[Super Mario Maker v1.6 (last)](https://c.gethopscotch.com/p/z67bf9rxj) by jeff master 96
+
+### Best of jeff master 96  
+- [Super Mario bros 1-1](https://c.gethopscotch.com/p/zb48tb8zl)
+- [Super Mario Maker v1.6 (last)](https://c.gethopscotch.com/p/z67bf9rxj)
+- [World 2 Level 1](https://c.gethopscotch.com/p/z1l5qkwsa)  
+- [World 1 level 4 boss](https://c.gethopscotch.com/p/z1kzxlyx3)  
+- [World 1 level 4 airship](https://c.gethopscotch.com/p/z1kc46dsi)  
+- [World 1 level 3](https://c.gethopscotch.com/p/z19mlp9u1)
+- [World 1 level 2](https://c.gethopscotch.com/p/z17xaihzu)
+- [World 1 level 1](https://c.gethopscotch.com/p/yzwnbgopa)
