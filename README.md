@@ -11,4 +11,4 @@ The Full Book ---
 - [JonnyGamer](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=wl5j-1kwk_7c&channel=Published)
 
 ### Games
-- [AntiLone](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5cgn0p-1kwn_7d&channel=Published)
+- [AntiLone](https://c.gethopscotch.com/p/11mnh5o5z0) by SarcasticTvHead
