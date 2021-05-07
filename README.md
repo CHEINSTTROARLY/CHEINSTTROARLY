@@ -14,3 +14,4 @@ The Full Book ---
 - [It's Here](https://c.gethopscotch.com/p/zi4k2lqt6) by -1
 - [It's Here: The Game](https://c.gethopscotch.com/p/zikpn5f84) by JonnyGamer
 - [AntiLone](https://c.gethopscotch.com/p/11mnh5o5z0) by SarcasticTvHead
+- [Pro Camping Tips](https://c.gethopscotch.com/p/10brqq43li) by Save The Jeffery Fishes
