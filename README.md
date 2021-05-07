@@ -22,6 +22,6 @@ The Full Book ---
 
 ---
 
-# [Notice](https://c.gethopscotch.com/p/11jvqho9ov) by COAN, just like from MagmaPOP's [Unfinished Projects Ahead...](https://c.gethopscotch.com/p/y0gfufgnl)
+[Notice](https://c.gethopscotch.com/p/11jvqho9ov) by COAN, just like from MagmaPOP's [Unfinished Projects Ahead...](https://c.gethopscotch.com/p/y0gfufgnl)
 
 [Last project...](https://c.gethopscotch.com/p/y0ggh3drq) by MagmaPOP
