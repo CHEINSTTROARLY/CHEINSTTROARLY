@@ -1,2 +1,2 @@
-# The CHEINSTTROARLY
-The Full Project
+# CHEINSTTROARLY
+The Full Book ---
