@@ -29,3 +29,5 @@ The Full Book ---
 [Notice](https://c.gethopscotch.com/p/11jvqho9ov) by COAN, just like from MagmaPOP's [Unfinished Projects Ahead...](https://c.gethopscotch.com/p/y0gfufgnl)
 
 [Last project...](https://c.gethopscotch.com/p/y0ggh3drq) by MagmaPOP
+
+[Someone remixed by song for MagmaPOP?](https://c.gethopscotch.com/p/xmpn4mn8d)
