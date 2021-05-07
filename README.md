@@ -45,5 +45,5 @@ The Full Book ---
 
 [Someone remixed by song for MagmaPOP?](https://c.gethopscotch.com/p/xmpn4mn8d)
 
-[Super Mario bros 1-1](https://c.gethopscotch.com/p/zb48tb8zl) by jeff master 96
+[Super Mario bros 1-1](https://c.gethopscotch.com/p/zb48tb8zl) by jeff master 96  
 [Super Mario Maker v1.6 (last)](https://c.gethopscotch.com/p/z67bf9rxj) by jeff master 96
