@@ -46,6 +46,8 @@ The Full Book ---
 
 ---
 
+- [Awesome E's List of Number Cults](https://c.gethopscotch.com/p/11hbnwdjvn)
+
 [Notice](https://c.gethopscotch.com/p/11jvqho9ov) by COAN, just like from MagmaPOP's [Unfinished Projects Ahead...](https://c.gethopscotch.com/p/y0gfufgnl)
 
 [Last project...](https://c.gethopscotch.com/p/y0ggh3drq) by MagmaPOP
