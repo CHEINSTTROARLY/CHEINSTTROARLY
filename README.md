@@ -19,6 +19,7 @@ The Full Book ---
 - [Jeffery Jr.](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5zk12q-1kww_77&channel=Published)
 - [jeff3321](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=52jq75-1kwm_7b&channel=Published)
 - [jeff master 96](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5cwok1-1kwn_7d&channel=Published)
+- [Petrichor Fan Cult](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=64gprr-1kww_7k&channel=Published) - pretty weird
 
 ### Games
 - [It's Here](https://c.gethopscotch.com/p/zi4k2lqt6) by -1
