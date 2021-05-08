@@ -11,6 +11,7 @@ The Full Book ---
 - [JonnyGamer](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=wl5j-1kwk_7c&channel=Published)
 - [Super Mario Mini Games](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=4scg3o-1kwl_7l&channel=Published)
 - [Nefarious](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5o8dwj-1kwo_7k&channel=Published)
+- [Jeffery](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5o821i-1kwo_7k&channel=Published)
 
 ### Other Users?  
 - [Creations of a Noob](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=v3ad-1kwk_7c&channel=Published)
