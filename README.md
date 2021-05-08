@@ -21,6 +21,7 @@ The Full Book ---
 - [jeff master 96](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5cwok1-1kwn_7d&channel=Published)
 - [Petrichor Fan Cult](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=64gprr-1kww_7k&channel=Published) - pretty weird
 - [Soup Sim](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5ezk06-1kwo_75&channel=Published)
+- [Funky 63 Greenland](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=forya-1kwl_79-56hsbq16e5_3iwwyzrsqb_3ft1s4j!2529!2rrwdbswki_1wx2&channel=Published)
 
 ### Games
 - [It's Here](https://c.gethopscotch.com/p/zi4k2lqt6) by -1
