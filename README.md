@@ -28,6 +28,11 @@ The Full Book ---
 - [Guide UwU through Space](https://c.gethopscotch.com/p/ztno5gxjk) by Save The Jeffery Fishes
 - [Cool Loading Screen!](https://c.gethopscotch.com/p/zt7idqfsb) by Save The Jeffery Fishes
 - [Quick -1 PLatformer](https://c.gethopscotch.com/p/zt7anowzj) by Save The Jeffery Fishes
+- [-1 Books](https://c.gethopscotch.com/p/104qwupb14) by SarcasticTvHead
+- [owow](https://c.gethopscotch.com/p/100a583iv4) by SarcasticTvHead
+- [Oh so Spoopy](https://c.gethopscotch.com/p/zsi0l776o)
+- [Whoop I escaped](https://c.gethopscotch.com/p/zqjvbj7pz)
+- [First time TV spoke of Petty](https://c.gethopscotch.com/p/zoi77ogcx)
 
 ---
 
