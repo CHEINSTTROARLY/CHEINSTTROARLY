@@ -141,14 +141,14 @@ sort of
 couldn't
 firm
 
-Hacced Accounts
-staggeringwind hopscotch sept 2015
-2013 2013 mar 2016
-null null dec 2015
-five5 five
-Mario mario
-Waluigi waluigi
-wordpass password
+Hacced Accounts (Username | Password | Date of creation)
+staggeringwind | hopscotch | sept 2015
+2013 | 2013 | mar 2016
+null | null | dec 2015
+five5 | five
+Mario | mario
+Waluigi | waluigi
+wordpass | password
 
 How To Hacc more Accounts
 Find emails that have been used for Hopscotch, but haven't been taken in gmail
